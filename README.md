@@ -1,4 +1,4 @@
 # cs-load-test
 
 - jmeter...
-- NOT: Bu jmeter yerine locust load test aracı da kullanılabilirdi :)
+- NOT: Jmeter aracı yerine locust load test aracını da kullanabilirdik :)
